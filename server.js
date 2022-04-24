@@ -161,7 +161,7 @@ function coinFlips(flips) {
     }
     return out;
 }
-
+ 
 function countFlips(array) {
     var headsCount = 0;
     var tailsCount = 0;
