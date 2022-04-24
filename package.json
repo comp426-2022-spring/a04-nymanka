@@ -1,0 +1,20 @@
+{
+  "name": "nymanka-a04",
+  "version": "1.0.0",
+  "description": "database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a04-nymanka.git"
+  },
+  "author": "Kaan Nyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a04-nymanka/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a04-nymanka#readme"
+}
