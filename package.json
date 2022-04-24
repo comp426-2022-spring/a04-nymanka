@@ -12,7 +12,7 @@
     "url": "git+https://github.com/comp426-2022-spring/a04-nymanka.git"
   },
   "author": "Kaan Nyman",
-  "license": "ISC",
+  "license": "ISC", 
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a04-nymanka/issues"
   },
