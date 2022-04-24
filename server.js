@@ -132,7 +132,7 @@ app.get('/app/flips/:number', (req, res) => {
 
     res.status(200).json(out);
 });
-      
+       
 // Single flip endpoint
 app.get('/app/flip/', (req, res) => {
 	const result = coinFlip();
