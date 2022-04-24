@@ -139,7 +139,7 @@ app.get('/app/flip/', (req, res) => {
     const out = {flip: result};
 
     res.status(200).json(out);
-});           
+});              
                   
 // Guess flip endpoint
 app.get('/app/flip/call/:call', (req, res) => {
