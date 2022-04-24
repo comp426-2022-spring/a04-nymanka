@@ -149,7 +149,6 @@ app.get('/app/flip/call/:call', (req, res) => {
     res.status(200).json(out);
 });
 
-
 // Coin functions:
 function coinFlip() {
     return Math.floor(Math.random() * 2) ? "heads" : "tails";
