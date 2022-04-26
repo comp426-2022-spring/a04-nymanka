@@ -1,10 +1,9 @@
 {
-  "name": "nymanka-a04",   
+  "name": "nymanka-a04",
   "version": "1.0.0",
   "description": "database",
-  "main": "server.js",      
-
-  "scripts": { 
+  "main": "server.js",
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
@@ -13,10 +12,15 @@
     "url": "git+https://github.com/comp426-2022-spring/a04-nymanka.git"
   },
   "author": "Kaan Nyman",
-  "license": "ISC", 
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a04-nymanka/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a04-nymanka#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a04-nymanka#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "express": "^4.18.0",
+    "minimist": "^1.2.6",
+    "morgan": "^1.10.0"
+  }
 }
-            
