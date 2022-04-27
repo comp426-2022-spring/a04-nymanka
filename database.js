@@ -41,4 +41,4 @@ if (row === undefined) {
     console.log('Log database exists.')
 }
 // Export all of the above as a module so that we can use it elsewhere.
-module.exports = 3;//logdb;      
+module.exports = 3;//logdb;       
